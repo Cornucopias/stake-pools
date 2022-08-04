@@ -1,0 +1,26 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/Cornucopias/stake-pools/main/CornucopiasLogoSquare-64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/Cornucopias/stake-pools/main/CornucopiasLogoSquare-800.jpg",
+    "social": {
+      "twitter_handle": "CornucopiasGame",
+      "facebook_handle": "cornucopiasgame",
+      "youtube_handle": "CornucopiasGame",
+      "telegram_handle": "cornucopiasgameofficial",
+      "instagram_handle": "cornucopiasgame",
+      "medium_hanlde": "copiwiki",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "Cornucopias 'The Island Awaits'",
+    },
+    "about": {
+      "company": "Cornucopias 'The Island Awaits'"
+    },
+    "my-pool-ids": {
+      "0": "dda4bc64e339336e3f7bc158177df0c71dc760ff11cb8b0651b3ece4"
+    },
+  }
+}
