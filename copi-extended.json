@@ -1,27 +1,26 @@
 {
   "info": {
-    "url_png_icon_64x64": "https://raw.githubusercontent.com/Cornucopias/stake-pools/main/CornucopiasLogoSquare-64.png",
-    "url_png_logo": "https://raw.githubusercontent.com/Cornucopias/stake-pools/main/CornucopiasLogoSquare-800.jpg",
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/Cornucopias/stake-pools/refs/heads/main/InfinityRising-Icon-64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/Cornucopias/stake-pools/refs/heads/main/InfinityRising-Mark.png",
+    "url_svg_logo": "https://raw.githubusercontent.com/Cornucopias/stake-pools/refs/heads/main/InfinityRisingMark.svg",
     "social": {
-      "twitter_handle": "CornucopiasGame",
-      "facebook_handle": "cornucopiasgame",
-      "youtube_handle": "CornucopiasGame",
-      "telegram_handle": "cornucopiasgameofficial",
-      "instagram_handle": "cornucopias.game",
-      "medium_hanlde": "copiwiki",
-      "discord_handle": "cornucopiasgameofficial",
-      "twitch_handle": "",
-      "github_handle": ""
+      "linktree_handle": "InfinityRisingGame",
+      "twitter_handle": "InfinityRisingX",
+      "x_handle": "InfinityRisingX",
+      "youtube_handle": "@InfinityRisingGame",
+      "telegram_handle": "infinityrisingx",
+      "discord_handle": "InfinityRising",
     },
     "company": {
-      "name": "Cornucopias"
+      "name": "Infinity Rising"
     },
     "about": {
-      "company": "Cornucopias"
+      "company": "Infinity Rising"
     },
     "my-pool-ids": {
       "0": "dda4bc64e339336e3f7bc158177df0c71dc760ff11cb8b0651b3ece4",
-      "1": "0836ac65915682ad8c7c138a61f354e31711f92f1b53442cd4a89b0b"
+      "1": "0836ac65915682ad8c7c138a61f354e31711f92f1b53442cd4a89b0b",
+      "2": "59db640a870601fedb539d3f4954007332e76e463d1265c096b69c59"
     }
   }
 }
